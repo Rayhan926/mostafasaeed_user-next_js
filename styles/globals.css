@@ -1,3 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap");
+
+@font-face {
+  font-family: "rixel";
+  src: url(../public/fonts/Rixel.otf);
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.container {
+  margin: 0 auto;
+}
+
+.section_title {
+  @apply text-white font-rixel text-6xl text-center uppercase;
+}

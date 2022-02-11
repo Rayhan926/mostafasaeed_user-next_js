@@ -17,9 +17,13 @@ module.exports = {
           700: "#0F3B68",
           800: "#05294E",
           900: "#021E3A",
-        }
-      }
+        },
+      },
+      fontFamily: {
+        "quick-sand": ["Quicksand", "sans-serif"],
+        rixel: ["rixel", "sans-serif"],
+      },
     },
   },
   plugins: [],
-}
+};
