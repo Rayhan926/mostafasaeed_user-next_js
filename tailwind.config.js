@@ -21,7 +21,7 @@ module.exports = {
       },
       fontFamily: {
         "quick-sand": ["Quicksand", "sans-serif"],
-        rixel: ["rixel", "sans-serif"],
+        rixel: ["Rixel", "sans-serif"],
       },
     },
   },
